@@ -2,7 +2,7 @@
 
 
 body {
-      background: burlywood
+      background: rgb(164, 240, 240);
       font-family: 'Times New Roman', Times, serif;
     }
 
@@ -75,3 +75,4 @@ body {
     .box-auto {
       overflow: auto;
     }
+
